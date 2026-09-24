@@ -110,7 +110,6 @@ class DataAnalyst:
         self.role = "Data Analyst | Business Analyst"
         self.location = "Nairobi, Kenya"
         self.stack = ["SQL", "Power BI", "Python", "Jaspersoft", "Pentaho", "Excel"]
-        self.languages_spoken = ["English", "Swahili"]
 
     def say_hi(self):
         print("Thanks for dropping by. Hope you find some of my work useful!")
